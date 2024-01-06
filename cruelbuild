@@ -92,6 +92,9 @@ models = {
     'N970F': {
         'config': 'exynos9820-d1_defconfig'
     },
+    'N971N': {
+        'config': 'exynos9820-d1xks_defconfig'
+    },
     'N975F': {
         'config': 'exynos9820-d2s_defconfig'
     },
